@@ -1,0 +1,67 @@
+.Hero-btn button{
+
+border-radius: 33px;
+border-width: 1px;
+background-color: white;
+margin-top: 70px;
+margin-left: 20px;
+padding: 5pxs;
+    
+}.whole{
+display: flex;
+padding-top: 40px;
+}
+.wholee{
+    display: flex;
+    gap: 2rem;
+}
+.wholee p{
+   color: hsl(0, 2%, 26%);
+    
+}
+.whole img{
+    width: 750px;
+}
+.content p{
+    color: hsl(0, 2%, 26%);
+    font-size: large;
+}
+.content h1{
+    font-size: 50px;
+}
+.content li{
+    color: hsl(0, 2%, 26%);
+}
+.whole button{
+    padding: 8px 23px;
+    border-radius: 20px;
+    border: color(#605959);
+    background-color: white;
+    
+}
+.whole a{
+    text-decoration: none;
+    color: hsl(0, 2%, 26%);
+    
+}
+
+#fits{
+    color: #694369;
+    font-style: italic;
+}
+
+.content{
+    justify-content: space-between;
+
+    padding: 30px;
+}
+.Nav-button{
+    color: white;
+    background-color: rgb(120, 75, 120);
+    border-radius: 20px;
+    height: 40px;
+    width: 130px;
+    border: none;
+    margin: auto;
+    
+}

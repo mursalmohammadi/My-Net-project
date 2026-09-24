@@ -1,0 +1,32 @@
+.Nav-btn li{
+   
+    color: black;
+    text-decoration: none;
+    border: none;
+    list-style-type: none;
+    display: flex;
+    text-align: center;
+    font-weight: bold;
+    font-style: normal;
+    font-size: large;
+}
+.Navbar{
+    display: flex;
+    gap: 140px;
+   
+}
+.Navbar img{
+    height: 25px;
+    width: 100px;
+    margin: auto;
+}
+.Nav-button{
+    color: white;
+    background-color: rgb(120, 75, 120);
+    border-radius: 20px;
+    height: 40px;
+    width: 130px;
+    border: none;
+    margin: auto;
+    
+}

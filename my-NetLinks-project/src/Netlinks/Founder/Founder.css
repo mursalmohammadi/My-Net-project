@@ -1,0 +1,14 @@
+#fits{
+    color: #694369;
+    font-style: italic;
+}
+#section{
+    background-color: lch(94.76% 6.27 324.62);
+    text-align: center;
+    margin: 60px;
+    padding: 180px;
+}
+#section p{
+    color: hsl(0, 2%, 26%);
+    padding: 30px;
+}
